@@ -1,0 +1,88 @@
+
+
+body{
+font:Tahoma,Arial,sans-serif;
+background:#ffffff url(background.gif) top center repeat-y;
+}
+
+
+.full{width:1100px;height:1250px;}
+.p1{width:1100px;height:190px;background-image: url("s.jpg")}
+	.p2{width:1100px;height:1000px;}
+		.p01{width:300px;height:1000px;background-color:#F5DEB3;float:left;}
+			.pa{width:250px;height:810px;background-color:#F5DEB3;float:left;margin:5px 20px 13px 20px;font-size:18px;}
+							.pa ul li{list-style:none;margin:0px 35px 0px 0px;}
+							.pa ul li a{text-decoration:none;color:#FCF8F9}
+							
+							
+						
+
+                  .pa2{width:250px;height:300px;background-color:;float:left;margin:5px 30px 13px 80px;font-size:18px;}
+							.pa2 ul li{list-style:none;margin:0px 35px 0px 0px;}
+							.pa2 ul li a{text-decoration:none;color:#FCF8F9}
+
+
+						
+							
+							
+			     .pe{width:235px;height:28px;background-color:brown;text-decoration:none}
+					.pe:hover{width:250px;height:28px;background-color:brown;font-size:21px;}
+			     
+			
+			.pc{width:250px;height:150px;background-color:#FAF0E6;float:left;margin:20px 20px 13px 20px;}
+			
+		.p02{width:800px;height:1000px;background-color:#BC8F8F;float:left;}
+			.pm{width:800px;height:300px;background-color:green;float:left;}
+			
+			
+		
+
+
+.menu{height:60px;width:890px;list-style:none;float:left;margin:2px 0px 0px 0px;}
+.menu li{height:60px;width:105px;background-color:brown;float:left;text-align:center;border-right:2px solid white;color:white;}
+
+.menu li:hover{font-size:29px;background-color:#680000;}
+.menu li a{text-decoration:none;font-size:18px;color:white}
+.menu li ul{text-decoration:none;position:relative;right:-9999px;}
+	.menu li ul{list-style:none;}
+.menu li:hover ul {position:relative;left:0px;margin:0px;padding:0px;}
+
+		
+			
+			
+			.ps{width:360px;height:200px;background-color:#ffffff;float:left;margin:20px 5px 5px 20px;text-align:left;}
+			.pt{width:365px;height:200px;background-color:#ffffff;float:left;margin:20px 5px 5px 20px;float:left;}
+			.pq{width:750px;height:360px;background-color:#ffffff;float:left;margin:20px 5px 5px 20px;}
+			
+		
+
+.Traning{
+	font-size:39px;
+	font-weight:bold;
+	color:brown
+	}
+
+
+.footer{
+	font-size:23px;
+	font-weight:bold;
+	color: 	#F5DEB3;
+	}
+
+
+#me{text-decoration:none;color:white;}
+
+
+
+
+
+
+
+
+
+		
+		
+.p3{width:1100px;height:80px;background-color:#A0522D;font-size:25px;color:#000000;}
+	
+
+		
